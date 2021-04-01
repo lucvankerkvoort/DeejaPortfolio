@@ -5,11 +5,57 @@ body {
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  
+
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.ms.office,
+.visio {
+  width: 100%;
+}
+
+.jira,
+.tfs {
+  width: 85%;
+}
+
+.alm,
+.quality.center {
+  width: 50%;
+}
+
+.sharepoint,
+.appian,
+.siebel.crm {
+  width: 75%;
+}
+.peoplesoft {
+  width: 60%;
+}
+
+.business.requirements.documentation,
+.sdlc,
+.agile.project.management,
+.scrum.master,
+.business.management,
+.business.process.improvement,
+.agile.methodologies {
+  width: 100%;
+}
+
+.project.management {
+  width: 70%;
+}
+
+.product.ownership {
+  width: 90%;
+}
+
+.vendor.management {
+  width: 85%;
 }
